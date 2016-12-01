@@ -1,0 +1,11 @@
+{
+  "name": "sirnec/simple-yelp-api",
+  "description": "Lightweight Library for Yelp API",
+  "type": "project",
+  "license": "",
+  "autoload": {
+    "psr-4": {
+      "Sirnec\\SimpleYelpApi\\": "src/"
+    }
+  }
+}
